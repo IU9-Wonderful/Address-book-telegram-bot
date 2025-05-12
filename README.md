@@ -67,4 +67,4 @@ Python файл - сам бот.
 * __all_models.py - модели для базы данных.
 * config.py - взаимодействие с файлом настроек "address_book_telegram_bot/config.txt".
 * db_session.py - взаимодействие с базой данных "address_book_telegram_bot/db/address_book.sqlite".
-* yandex_maps.py - функции для взаимодействия с "yandex maps api" и api геокодера (тоже от яндекса).
+* yandex_maps.py - функции для взаимодействия с "yandex maps api" и api геокодера от яндекса.
